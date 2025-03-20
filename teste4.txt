@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Resolvendo Conflito
+=======
+Exemplo de branch
+Teste 4
+EXEMPLO DE CONFLITO NO COMMIT
+
+>>>>>>> c291eb3fefdb164849881c129ae49cb31c57a7ab
